@@ -3,6 +3,7 @@ import middy from '@middy/core'
 interface ICorsOptions {
   origin?: string;
   origins?: string[];
+  getOrigin?: Function;
   headers?: string;
   credentials?: boolean;
   maxAge?: string;
