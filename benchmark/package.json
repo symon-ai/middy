@@ -75,7 +75,7 @@
     "@rollup/plugin-node-resolve": "^11.2.1",
     "autocannon": "^6.5.0",
     "benchmark": "^2.1.4",
-    "clinic": "10.0.0",
+    "clinic": "13.0.0",
     "rollup": "^2.45.1",
     "rollup-plugin-terser": "^7.0.2"
   },
